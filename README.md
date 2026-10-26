@@ -26,3 +26,9 @@
 | `Revelations-Of-Divine-Love-Audio.playlist.zip` | **Revelations of Divine Love (Audio)** — Julian of Norwich's fourteenth-century visions and reflections, read by David Barnes for LibriVox. | [LibriVox](https://librivox.org/revelations-of-divine-love-by-julian-of-norwich) / [Internet Archive](https://archive.org/details/revelations_of_divine_love_drb_librivox) |
 | `Theologica-Germanica-Audio.playlist.zip` | **Theologica Germanica (Audio)** — An anonymous medieval German mystical treatise on dying to self and living in union with God, read by J A Carter for LibriVox. | [LibriVox](https://librivox.org/theologia-germanica-by-anonymous) / [Internet Archive](https://archive.org/details/theologiagermanica_1707_librivox) |
 
+
+### Download Theodia.app
+
+- [App Store](https://apps.apple.com/us/app/theodia/id6783143344)
+- [Google Play](https://play.google.com/store/apps/details?id=com.ecodia.theodia)
+
